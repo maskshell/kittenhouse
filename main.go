@@ -6,10 +6,10 @@ import (
 	"time"
 
 	"github.com/valyala/fasthttp"
-	"github.com/vkcom/kittenhouse/core/clickhouse"
-	"github.com/vkcom/kittenhouse/core/cmd"
-	"github.com/vkcom/kittenhouse/core/inmem"
-	"github.com/vkcom/kittenhouse/core/persist"
+	"github.com/maskshell/kittenhouse/core/clickhouse"
+	"github.com/maskshell/kittenhouse/core/cmd"
+	"github.com/maskshell/kittenhouse/core/inmem"
+	"github.com/maskshell/kittenhouse/core/persist"
 )
 
 const (
